@@ -1,0 +1,24 @@
+{
+	"instrument": 		"trombone",
+	"type": 		"tenor",
+	"model": 		"YSL-154",
+	"description": 		"The most popular student trombone in a lot of countries.",
+	
+	"rarity": 		0,
+	"number": 		"001",
+	"isFavourite": 		false,
+	"dateAquired": 		"not yet owned",
+  	"imageName": 		"YSL-154",
+	
+	"defaultMouthpiece": 	"SL-48S",
+	"currentMouthpiece": 	"SL-48S",
+	"tuningSlideMaterial": 	"yellow brass",
+	"finish": 		"gold lacquer",
+	"bellDiameter": 	8,
+	"bellMaterial": 	"yellow brass",
+	"bore": 		"0.500",
+	"innerSlideMaterial": 	"nickel silver",
+	"outerSlideMaterial": 	"yellow brass",
+	"triggers": 		"none",
+	"case": 		"yamaha"
+}
