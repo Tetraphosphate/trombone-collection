@@ -2,8 +2,8 @@
 "YSL-154": {
 	"details": {
 		"instrument"	: 		"trombone",
-		"type"			: 		"tenor",
-		"model"			: 		"YSL-154",
+		"type"		: 		"tenor",
+		"model"		: 		"YSL-154",
 		"description"	: 		"The most popular student trombone in a lot of countries."},
 	"rarity": 0,
 	"isFavourite": false,
@@ -28,8 +28,8 @@
 "YSL-154s": {
 	"details": {
 		"instrument"	: 		"trombone",
-		"type"			: 		"tenor",
-		"model"			: 		"YSL-154s",
+		"type"		: 		"tenor",
+		"model"		: 		"YSL-154s",
 		"description"	: 		"The most popular student trombone in a lot of countries. Now available in bright silver too."},
 	"rarity": 0,
 	"isFavourite": false,
