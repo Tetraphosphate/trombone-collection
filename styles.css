@@ -1,6 +1,6 @@
 .case {
     width: 33.33%;
-	display: inline;
+	float: left;
 }
 
 .caseimg {
