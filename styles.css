@@ -1,5 +1,5 @@
 .case {
-    width: 33.33%;
+	width: 33.33%;
 	float: left;
 }
 
@@ -14,4 +14,9 @@
 * {
 	margin: 0;
 	padding: 0;
+}
+
+body {
+	width: 60%;
+	margin: auto;
 }
