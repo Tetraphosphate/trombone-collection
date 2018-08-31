@@ -1,6 +1,8 @@
 .case {
 	width: 33.33%;
 	float: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .caseimg {
@@ -10,6 +12,7 @@
 
 .casedesc {
 	width: 100%;
+	margin-top: 10px;
 }
 
 * {
